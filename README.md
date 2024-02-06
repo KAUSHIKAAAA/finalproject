@@ -6,7 +6,7 @@ from sklearn.metrics import mean_squared_error
 from sklearn.preprocessing import LabelEncoder
 from datetime import datetime
 
-# Sample data (replace this with your actual dataset)
+# Sample data 
 data = {
     'Crop': ['Wheat', 'Rice', 'Maize', 'Wheat', 'Rice'],
     'Variety': ['Variety1', 'Variety2', 'Variety3', 'Variety1', 'Variety2'],
